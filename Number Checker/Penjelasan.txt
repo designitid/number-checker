@@ -1,0 +1,16 @@
+1. Fungsi checkOddEven():
+Penggunaan if/else: Fungsi ini mengecek apakah angka yang dimasukkan negatif, genap, atau ganjil. Jika angka negatif, pesan kesalahan ditampilkan. Jika tidak, if/else mengecek apakah angka genap (dengan number % 2 === 0) dan menampilkan pesan bahwa angka tersebut adalah genap. Jika tidak genap, berarti ganjil, dan pesan yang sesuai ditampilkan.
+
+2. Fungsi generateSeries():
+Penggunaan if: Fungsi ini memeriksa apakah angka yang dimasukkan negatif. Jika negatif, proses dihentikan dengan return, dan pesan kesalahan ditampilkan.
+
+Penggunaan for loop: Fungsi ini mengulangi proses dari 1 hingga number untuk membentuk deret angka. Setiap angka ditambahkan ke variabel result, yang akan berisi deret bilangan dari 1 hingga number.
+
+3. Fungsi generateMultiplicationTable():
+Penggunaan if: Fungsi ini memeriksa apakah angka negatif. Jika ya, maka pesan kesalahan ditampilkan, dan fungsi berhenti dengan return.
+Penggunaan for loop: Fungsi ini menggunakan nested for loop (loop dalam loop) untuk membuat tabel perkalian. Loop pertama menghasilkan baris untuk tabel, sementara loop kedua menghasilkan kolom di setiap baris dengan hasil perkalian i * j.
+
+
+
+
+
